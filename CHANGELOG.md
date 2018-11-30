@@ -5,11 +5,19 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-- WCF UI
 - Functionality to redeem accrued overtime.
-- Tracking of global overtime. 
+- Accrue overtime. 
 - Export of custom timeframe.
 - Export of current week only.
+
+## 0.0.3 - 2018-11-30
+### Added
+- Added quick and dirty WPF UI.
+### Changed
+- Updated third party licenses.
+### Removed
+- Legacy project Yatt superseded by YattWpf
+- Legacy project YattExport superseded by YattWpf
 
 ## 0.0.2 - 2018-10-21
 ### Added
